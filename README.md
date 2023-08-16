@@ -8,7 +8,8 @@ vehículos, viviendas, visitas, multas, encuestas, informativos,
 mural, roles de usuarios, permisos, respaldos, búsquedas, 
 historial, entre otros. El proyecto fue desarrollado con el 
 patrón de diseño Modelo-Vista-Controlador (MVC), 
-programación orientada a objetos (POO), CSS3, HTML5, Bootstrap 5, Smarty Template, JQuery, JavaScript, PDO, MySQL y la librería WOW 
+programación orientada a objetos (POO), CSS3, HTML5, Bootstrap 5,
+Smarty Template, JQuery, JavaScript, PDO, MySQL y la librería WOW 
 para efectos visuales.
 ~~~
 
