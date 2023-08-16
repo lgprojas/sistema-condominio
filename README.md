@@ -7,9 +7,9 @@ Los servicios que ofrece son: administración de copropietarios,
 vehículos, viviendas, visitas, multas, encuestas, informativos,
  mural, roles de usuarios, permisos, respaldos, búsquedas, 
  historial, entre otros. El proyecto fue desarrollado con el 
- patrón de diseño MVC, programación orientada a objetos, css3, 
- html5, Bootstrap 5, Smarty Template, Jquery, JavaScript y PDO 
- MySQL y la librería WOW para efectos.
+ patrón de diseño Modelo-Vista-Controlador (MVC), programación orientada a objetos (POO), CSS3, 
+ HTML5, Bootstrap 5, Smarty Template, JQuery, JavaScript, PDO 
+ MySQL y la librería WOW para efectos visuales.
 ~~~
 
 ![Demostracion](condominio.gif)
