@@ -1,12 +1,12 @@
 <?php
 ini_set('display_errors', 0); 
-ini_set('session.cookie_httponly', true);
+/*ini_set('session.cookie_httponly', true);
 ini_set('session.cookie_secure', true);
 ini_set('file_uploads', 1);
 ini_set('post_max_size','50M');
 ini_set('upload_max_filesize','5M');
 ini_set('max_execution_time','1000');
-ini_set('max_input_time','1000');
+ini_set('max_input_time','1000');*/
 date_default_timezone_set("America/Santiago");
 
 define('DS', DIRECTORY_SEPARATOR);

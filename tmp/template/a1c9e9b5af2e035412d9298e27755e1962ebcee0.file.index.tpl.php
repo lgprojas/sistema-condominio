@@ -1,4 +1,25 @@
-<section id="contenedor">    
+<?php /* Smarty version Smarty-3.1.11, created on 2023-08-16 15:11:27
+         compiled from "C:\xampp\htdocs\condominio\views\index\index.tpl" */ ?>
+<?php /*%%SmartyHeaderCode:123878415464dd1c0868cfe1-65749935%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    'a1c9e9b5af2e035412d9298e27755e1962ebcee0' => 
+    array (
+      0 => 'C:\\xampp\\htdocs\\condominio\\views\\index\\index.tpl',
+      1 => 1692213085,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '123878415464dd1c0868cfe1-65749935',
+  'function' => 
+  array (
+  ),
+  'version' => 'Smarty-3.1.11',
+  'unifunc' => 'content_64dd1c08693ef8_24887859',
+  'has_nocache_code' => false,
+),false); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_64dd1c08693ef8_24887859')) {function content_64dd1c08693ef8_24887859($_smarty_tpl) {?><section id="contenedor">    
 </section>    
 <section id="body">
     <section id="scrolldown">
@@ -58,8 +79,9 @@
         </footer>
     </section>
 </section>
-{literal}
+
     <script type="text/javascript">
                 new WOW().init();
     </script>
-{/literal}
+
+<?php }} ?>
